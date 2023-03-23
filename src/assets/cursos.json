@@ -1,7 +1,7 @@
 {
     "convivenciaCiudadana": {
         "convivenciaCiudadana1": {
-            "numeroCurso": "10001",
+            "numeroCurso": "convi1",
             "categoria": "Convivencia ciudadana",
             "nombre": "Convivencia ciudadana",
             "contenido": "El curso pedagógico de convivencia se dicta para dar aplicación a la medida correctiva impuesta al interior del Proceso Único de Policía desarrollado por parte de las Autoridades de Policía, según lo dispuesto en el artículo 175 de la Ley 1801 de 2016, que describe esta medida como programa pedagógico en materia de convivencia, organizado por la administración distrital o municipal. El contenido del curso fue desarrollado de acuerdo a los objetivos del Código Nacional de Seguridad y Convivencia, propendiendo por la promoción del respeto y del ejercicio responsable de la libertad, la dignidad, los deberes y derechos colectivos e individuales relacionados con las categorías de convivencia descritas en esa norma.",
@@ -20,7 +20,7 @@
     },
     "diversidadGenero": {
         "diversidadGenero1": {
-            "numeroCurso": "20001",
+            "numeroCurso": "diversidad1",
             "categoria": "Diversidad y género",
             "nombre": "ABC para Incorporar el Enfoque de Género en las Prácticas Pedagógicas",
             "contenido": "Nuestro propósito con estas recomendaciones es motivar a la comunidad educativa a acercarse al enfoque de género en la educación, que permita a las instituciones educativas reflexionar e incorporar prácticas que conlleven a la equidad e igualdad entre hombres y mujeres desde una visión de derechos humanos, especialmente los de las niñas y las mujeres, como aporte a la trasformación de patrones culturales machistas que han generado desigualdad y violencias basadas en género.",
@@ -37,7 +37,7 @@
             }
         },
         "diversidadGenero2": {
-            "numeroCurso": "20002",
+            "numeroCurso": "diversidad2",
             "categoria": "Diversidad y género",
             "nombre": "Alfabetización Digital",
             "contenido": "Este curso tiene como objetivo la implementación de estrategias formativas y de permanencia para las mujeres en el sistema educativo y favorecer la transformación de patrones culturales sexistas. Gracias a este curso podemos minimizar la brecha de conocimiento de sistemas digitales con herramientas básicas, uno de los grandes retos de la sociedad actual es pasar la información excluyente a una sociedad con comunicación digital.",
@@ -54,7 +54,7 @@
             }
         },
         "diversidadGenero3": {
-            "numeroCurso": "20003",
+            "numeroCurso": "diversidad3",
             "categoria": "Diversidad y género",
             "nombre": "Calendario Intercultural",
             "contenido": "",
@@ -71,7 +71,7 @@
             }
         },
         "diversidadGenero4": {
-            "numeroCurso": "20004",
+            "numeroCurso": "diversidad4",
             "categoria": "Diversidad y género",
             "nombre": "Diplomado en Autonomía Económica",
             "contenido": "El Diplomado de Autonomía Económica trata acerca de la relación entre género y diversas dimensiones de la economía; para ello propone un recorrido a través de las principales propuestas teóricas-conceptuales y prácticas elaboradas desde la economía feminista no sólo para explicar las desigualdades socioeconómicas entre mujeres y hombres, sino también para realizar una mirada alternativa global al orden económico en varios niveles, desde lo más general (economía global, enfoques del desarrollo) hasta las apuestas y experiencias locales.",
@@ -88,7 +88,7 @@
             }
         },
         "diversidadGenero5": {
-            "numeroCurso": "20005",
+            "numeroCurso": "diversidad5",
             "categoria": "Diversidad y género",
             "nombre": "Diplomado en Género",
             "contenido": "El Diplomado en Género trata sobre los principales planteamientos teóricos de los estudios de género, abordando la aparición, usos y discusión de dicha categoría. A través de un recorrido por las trayectorias históricas de los movimientos feministas y su apropiación de la noción y categoría de género, en el Diplomado se explora la relación entre la teoría y la acción política dirigida a denunciar y superar la subordinación femenina y la dominación masculina (patriarcado).",
@@ -105,7 +105,7 @@
             }
         },
         "diversidadGenero6": {
-            "numeroCurso": "20006",
+            "numeroCurso": "diversidad6",
             "categoria": "Diversidad y género",
             "nombre": "Diplomado en Mujeres y Paz",
             "contenido": "​El diplomado mujeres y paz es un espacio de formación para la reflexión y la construcción de procesos de paz territorial. Analiza el papel y los aportes de las mujeres en la construcción de paz y explora la relación entre la teoría y la acción política para transformar las relaciones violentas y patriarcales que han justificado una cultura violenta y guerrerista. Además, aborda los principales planteamientos conceptuales sobre la paz como una construcción social y cultural con perspectiva de género.",
@@ -122,7 +122,7 @@
             }
         },
         "diversidadGenero7": {
-            "numeroCurso": "20007",
+            "numeroCurso": "diversidad7",
             "categoria": "Diversidad y género",
             "nombre": "Diplomado en Mujeres y Política",
             "contenido": "El Diplomado en Mujeres y política trata en torno dos cuestiones fundamentales y recurrentes en la relación entre las mujeres y la vida política. La primera de ellas se pregunta acerca de por qué, a pesar de la desaparición de las prohibiciones y exclusiones explícitas, la participación de las mujeres en las instituciones y procesos formales de la política (partidos políticos, procesos electorales, instituciones de gobierno, ámbitos de toma de decisiones públicas) sigue siendo tan escasa, limitada y plagada de barreras. La segunda se cuestiona acerca de por qué los intereses y necesidades prácticas y estratégicas de las mujeres – entendidas como conjunto social, pero también diversas entre sí – continúan encontrando innumerables dificultades para expresarse y concretarse en los espacios de ejercicio del poder y la toma de decisiones en los niveles sociales y comunitarios y, en especial, en el Estado.",
@@ -139,7 +139,7 @@
             }
         },
         "diversidadGenero8": {
-            "numeroCurso": "20008",
+            "numeroCurso": "diversidad8",
             "categoria": "Diversidad y género",
             "nombre": "Diplomado en Nuevos Relacionamientos",
             "contenido": "El Diplomado de nuevos relacionamientos invita a mujeres y hombres a reflexionar sobre la masculinidad hegemónica construida culturalmente, la cual ha influido en la construcción de nuestras relaciones; este espacio abre la discusión a otras prácticas de relacionamiento entre mujeres y hombres, y promueve una masculinidad consciente y comprometida con la transformación de las relaciones entre los géneros e ideas para avanzar en relaciones con equidad de género.",
@@ -156,7 +156,7 @@
             }
         },
         "diversidadGenero9": {
-            "numeroCurso": "20009",
+            "numeroCurso": "diversidad9",
             "categoria": "Diversidad y género",
             "nombre": "Educación en igualdad de género",
             "contenido": "",
@@ -328,7 +328,7 @@
     },
     "gestionHumana": {
         "gestionHumana1": {
-            "numeroCurso": "30001",
+            "numeroCurso": "gestion1",
             "categoria": "Gestión humana",
             "nombre": "Acción Emprendedora",
             "contenido": "",
@@ -345,7 +345,7 @@
             }
         },
         "gestionHumana2": {
-            "numeroCurso": "30002",
+            "numeroCurso": "gestion2",
             "categoria": "Gestión humana",
             "nombre": "Acoso Laboral",
             "contenido": "",
@@ -362,7 +362,7 @@
             }
         },
         "gestionHumana3": {
-            "numeroCurso": "30003",
+            "numeroCurso": "gestion3",
             "categoria": "Gestión humana",
             "nombre": "Evaluación del Desempeño",
             "contenido": "",
@@ -379,7 +379,7 @@
             }
         },
         "gestionHumana4": {
-            "numeroCurso": "30004",
+            "numeroCurso": "gestion4",
             "categoria": "Gestión humana",
             "nombre": "Inducción Virtual",
             "contenido": "",
@@ -396,7 +396,7 @@
             }
         },
         "gestionHumana5": {
-            "numeroCurso": "30005",
+            "numeroCurso": "gestion5",
             "categoria": "Gestión humana",
             "nombre": "Servicio a la Ciudadanía",
             "contenido": "",
@@ -413,7 +413,7 @@
             }
         },
         "gestionHumana6": {
-            "numeroCurso": "30006",
+            "numeroCurso": "gestion6",
             "categoria": "Gestión humana",
             "nombre": "Sistema de Formación Institucional",
             "contenido": "",
@@ -432,12 +432,12 @@
     },
     "haciendaContratacion": {
         "haciendaContratacion1": {
-            "numeroCurso": "40001",
+            "numeroCurso": "hacien1",
             "categoria": "Hacienda y contratación",
             "nombre": "El ABC de la Supervisión o Interventoría",
             "contenido": "",
             "figure": {
-                "imagen": "https://img.freepik.com/foto-gratis/concepto-marca-solucion-estrategia-gestion-corporativa_53876-122982.jpg?w=996&t=st=1678291044~exp=1678291644~hmac=101825ce2b42dc963a8a0f4750a6227571a0b17d84d28ae5f6ffe9926635e6e6",
+                "imagen": "https://img.freepik.com/foto-gratis/negocios-apreton-manos-trato-felicitacion-trabajo_1150-645.jpg?w=900&t=st=1679590992~exp=1679591592~hmac=061c3c130923eb3fe5ca3b8bdcc4adeb159ec85c0f6425b64838b545a1dfc1bb",
                 "alt": "Imagen curso El ABC de la supervisión o interventoría"
             },
             "requisitos": {
@@ -449,7 +449,7 @@
             }
         },
         "haciendaContratacion2": {
-            "numeroCurso": "40002",
+            "numeroCurso": "hacien2",
             "categoria": "Hacienda y contratación",
             "nombre": "Estructura Subsecretaría de Ingresos",
             "contenido": "",
@@ -466,7 +466,7 @@
             }
         },
         "haciendaContratacion3": {
-            "numeroCurso": "40003",
+            "numeroCurso": "hacien3",
             "categoria": "Hacienda y contratación",
             "nombre": "Módulo de Contratación para Proveedores",
             "contenido": "El Curso Básico de Contratación le brinda la oportunidad de conocer los principios básicos de la contratación y le ayuda a formar una visión general de la contratación estatal, así como a conocer los medios con los que puede contar para participar en los proceso de contratación que realice el Municipio de Medellín.",
@@ -483,12 +483,12 @@
             }
         },
         "haciendaContratacion4": {
-            "numeroCurso": "40004",
+            "numeroCurso": "hacien4",
             "categoria": "Hacienda y contratación",
             "nombre": "Módulo de Gestores de Contratación",
             "contenido": "La Secretaría de Suministros y Servicios le ofrece una cordial bienvenida al Modulo de Contratación para los Gestores de la Contratacion. Le ofrecemos nuestro apoyo y los medios a nuestro alcance para que sea del mayor beneficio posible en su crecimiento intelectual. El Curso Básico de Contratación le brinda la oportunidad de conocer los principios básicos de la contratación y le ayuda a formar una visión general de la contratación estatal, así como a conocer los medios con los que puede contar para participar en los proceso de contratación que realice el Municipio de Medellín.",
             "figure": {
-                "imagen": "https://img.freepik.com/foto-gratis/manos-femeninas-negras-masculinas-blancas-que-sacuden-vista-ascendente-cercana_1163-4898.jpg?w=1380&t=st=1678745753~exp=1678746353~hmac=4a4327551d90bda28f7d6d22606bdad25381945af2886afae3b820b0998f9264",
+                "imagen": "https://img.freepik.com/foto-gratis/negocios-apreton-manos-trato-felicitacion-trabajo_1150-645.jpg?w=900&t=st=1679590992~exp=1679591592~hmac=061c3c130923eb3fe5ca3b8bdcc4adeb159ec85c0f6425b64838b545a1dfc1bb",
                 "alt": "Imagen curso Módulo de gestores de contratación"
             },
             "requisitos": {
@@ -502,7 +502,7 @@
     },
     "inclusionSocial": {
         "inclusionSocial1": {
-            "numeroCurso": "50001",
+            "numeroCurso": "inclu1",
             "categoria": "Inclusión social",
             "nombre": "Ciclo de Formación",
             "contenido": "El curso virtual Ciclo de Formación posibilita la inducción y reinducción a los equipos de trabajo en lo que corresponde a acciones encaminadas a la mejora continua en la prestación de los servicios misionales de la Unidad Familia Medellín, a través del conocimiento de la institucionalidad, la Política Pública para la Familia, la metodología para el Acompañamiento Familiar y la integralidad de enfoques para el acompañamiento humano del plan de transversalización.",
@@ -519,7 +519,7 @@
             }
         },
         "inclusionSocial2": {
-            "numeroCurso": "50002",
+            "numeroCurso": "inclu2",
             "categoria": "Inclusión social",
             "nombre": "Política Pública de infancia y adolescencia",
             "contenido": "En este curso aprenderán sobre el camino que enmarca nuestro que hacer desde lo conceptual, teórico y técnico, para favorecer el desarrollo integral de la niñez y la adolescencia desde la ciudad y q nos señala la ruta para favorecer la corresponsabilidad en toda  la población, para velar por sus derechos, su integridad y su dignidad.",
@@ -536,7 +536,7 @@
             }
         },
         "inclusionSocial3": {
-            "numeroCurso": "50003",
+            "numeroCurso": "inclu3",
             "categoria": "Inclusión social",
             "nombre": "Prácticas para la acción",
             "contenido": "La Unidad de Niñez a través del proyecto Medellín Cuida a sus Niñas, Niños y Adolescentes les da la bienvenida al curso virtual Prácticas para la Acción, como una apuesta de ciudad tenemos el reto de trabajar en la erradicación de la explotación sexual comercial de niñas, niños y adolescentes -ESCNNA-, las violencias sexuales – abuso sexual- y el embarazo adolescente y subsecuente, problemáticas que vulneran los derechos de las infancias y las adolescencias y deterioran su bienestar y calidad de vida.",
@@ -555,7 +555,7 @@
     },
     "salud": {
         "salud1": {
-            "numeroCurso": "60001",
+            "numeroCurso": "salud1",
             "categoria": "Salud",
             "nombre": "AEIPI Clínico versión 2016",
             "contenido": "Objetivo: fortalecer las competencias necesarias para la atención integral de niños y niñas menores de seis años y las mujeres gestantes bajo la estrategia AIEPI. Dirigido a: médicos(as), pediatras, que se desempeñen en las diferentes instituciones prestadores de servicios de salud de la ciudad de Medellín.",
@@ -572,7 +572,7 @@
             }
         },
         "salud2": {
-            "numeroCurso": "60002",
+            "numeroCurso": "salud2",
             "categoria": "Salud",
             "nombre": "Capacitación en Curso de vida: adolescencia y juventud",
             "contenido": "Comunicación asertiva y acompañamiento afectivo, elementos prioritarios de la atención Objetivo: fortalecer las competencias de profesionales de la salud, de las EAPB e IPS de la ciudad para la atención de los adolescentes y jóvenes (12-28 años) desde los servicios de salud. Dirigido a: profesionales del área de la salud y social que están asignados a la atención de la población de 12 a 28 años en las IPS y enfermeras líderes de infancia del componente de promoción y prevención de las EAPB e IPS, en la ciudad de Medellín.",
@@ -589,7 +589,7 @@
             }
         },
         "salud3": {
-            "numeroCurso": "60003",
+            "numeroCurso": "salud3",
             "categoria": "Salud",
             "nombre": "Conéctate con la vida",
             "contenido": "Con el curso 'Conéctate con la Vida' 💙, aprenderás a trabajar en redes sociales, realizar piezas gráficas, conocer diferentes planos audiovisuales y aplicaciones para desarrollar los mismos 😊",
@@ -606,7 +606,7 @@
             }
         },
         "salud4": {
-            "numeroCurso": "60004",
+            "numeroCurso": "salud4",
             "categoria": "Salud",
             "nombre": "Diplomado Adulto y adulto mayor: el arte de vivir mejor",
             "contenido": "Objetivo: fortalecer las competencias de profesionales de la salud, de las EAPB e IPS de la ciudad para la atención de los adultos (29-59 y mayores de 60 años) desde los servicios de salud. Dirigido a: profesionales del área de la salud y social que están asignados a la atención de los adultos en las IPS y líderes del componente de promoción y prevención de las EAPB e IPS.",
@@ -623,7 +623,7 @@
             }
         },
         "salud5": {
-            "numeroCurso": "60005",
+            "numeroCurso": "salud5",
             "categoria": "Salud",
             "nombre": "Diplomado AIEPI Clínico 2017",
             "contenido": "Objetivo: Fortalecer las competencias necesarias para la atención integral de niños y niñas menores de seis años y las mujeres gestantes bajo la estrategia AIEPI. Dirigido a: médicos(as), pediatras, que se desempeñen en las diferentes instituciones prestadores de servicios de salud de la ciudad de Medellín.",
@@ -640,7 +640,7 @@
             }
         },
         "salud6": {
-            "numeroCurso": "60006",
+            "numeroCurso": "salud6",
             "categoria": "Salud",
             "nombre": "Diplomado Gestión Servicios de Detección Temprana y Protección Específica",
             "contenido": "Objetivo: Fortalecer las competencias en gestión de los servicios de promoción de la salud y prevención de la enfermedad en los profesionales líderes de estos servicios en las EAPB e IPS de la Ciudad. Dirigido a: Líderes de calidad de los servicios de Detección Temprana, Protección específica y de las Enfermedades de Interés en Salud Pública de las EAPB e IPS, dando prioridad a las Instituciones que forman parte del proceso de implementación de los Servicios de Excelencia.",
@@ -657,7 +657,7 @@
             }
         },
         "salud7": {
-            "numeroCurso": "60007",
+            "numeroCurso": "salud7",
             "categoria": "Salud",
             "nombre": "Guardianes de vida",
             "contenido": "Al final de este curso tendrás una idea clara de los factores de riesgo asociados a la conducta suicida en adolescentes, niños y niñas. Sabrás cómo promover los factores protectores para el cuidado de tu salud mental.",
@@ -674,7 +674,7 @@
             }
         },
         "salud8": {
-            "numeroCurso": "60008",
+            "numeroCurso": "salud8",
             "categoria": "Salud",
             "nombre": "La salud mental, transversal a la atención en salud",
             "contenido": "Objetivo: brindar herramientas técnicas, a los profesionales del área psicosocial, para adquirir nuevos aprendizajes y actualizar conocimientos básicos que beneficien tanto a las personas como a las instituciones en los temas de salud mental. Dirigido a: personal de salud y otros actores responsables del desarrollo de programas relacionados con el componente de Salud Mental en las diferentes secretarías de la Alcaldía de Medellín y otras instituciones de la ciudad.",
@@ -691,7 +691,7 @@
             }
         },
         "salud9": {
-            "numeroCurso": "60009",
+            "numeroCurso": "salud9",
             "categoria": "Salud",
             "nombre": "Nuevas Propuestas en Crecimiento y Desarrollo",
             "contenido": "Tema: detección temprana de las alteraciones del crecimiento y desarrollo en el menor de 10 años Dirigido a: profesionales del área de la salud y social que están asignados a la atención en los servicios de crecimiento y desarrollo de las EAPB e IPS, ubicadas en el municipio de Medellín. Objetivo: fortalecer las competencias de profesionales de la salud, de las EAPB e IPS de la ciudad para la implementación de la norma técnica para la detección temprana de las alteraciones del menor de 10 años.",
@@ -812,7 +812,7 @@
     },
     "seguridadVial": {
         "seguridadVial1": {
-            "numeroCurso": "70001",
+            "numeroCurso": "vial1",
             "categoria": "Seguridad vial",
             "nombre": "Amonestados",
             "contenido": "Si tienes un comparendo pedagógico en la ciudad de Medellín. Accede aquí al curso de amonestados que la Secretaría de Movilidad tiene para ti. Es fácil, rápido y sin tener que desplazarte.",
@@ -829,7 +829,7 @@
             }
         },
         "seguridadVial2": {
-            "numeroCurso": "70002",
+            "numeroCurso": "vial2",
             "categoria": "Seguridad vial",
             "nombre": "Seguridad Vial",
             "contenido": "",
@@ -848,7 +848,7 @@
     },
     "seguridadSaludTrabajo": {
         "seguridadSaludTrabajo1": {
-            "numeroCurso": "80001",
+            "numeroCurso": "seguT1",
             "categoria": "Seguridad y salud en el trabajo",
             "nombre": "Comité de Emergencia",
             "contenido": "",
@@ -865,7 +865,7 @@
             }
         },
         "seguridadSaludTrabajo2": {
-            "numeroCurso": "80002",
+            "numeroCurso": "seguT2",
             "categoria": "Seguridad y salud en el trabajo",
             "nombre": "Investigación de Accidentes e incidentes",
             "contenido": "",
@@ -882,7 +882,7 @@
             }
         },
         "seguridadSaludTrabajo3": {
-            "numeroCurso": "80003",
+            "numeroCurso": "seguT3",
             "categoria": "Seguridad y salud en el trabajo",
             "nombre": "Peligro Locativo",
             "contenido": "",
@@ -899,7 +899,7 @@
             }
         },
         "seguridadSaludTrabajo4": {
-            "numeroCurso": "80004",
+            "numeroCurso": "seguT4",
             "categoria": "Seguridad y salud en el trabajo",
             "nombre": "Peligro Mecánico",
             "contenido": "",
@@ -916,7 +916,7 @@
             }
         },
         "seguridadSaludTrabajo5": {
-            "numeroCurso": "80005",
+            "numeroCurso": "seguT5",
             "categoria": "Seguridad y salud en el trabajo",
             "nombre": "Programa de gestión para la prevención de los DME",
             "contenido": "",
@@ -933,7 +933,7 @@
             }
         },
         "seguridadSaludTrabajo6": {
-            "numeroCurso": "80006",
+            "numeroCurso": "seguT6",
             "categoria": "Seguridad y salud en el trabajo",
             "nombre": "Sistema Gestión Seguridad y Salud en el Trabajo",
             "contenido": "",
@@ -950,7 +950,7 @@
             }
         },
         "seguridadSaludTrabajo7": {
-            "numeroCurso": "80007",
+            "numeroCurso": "seguT7",
             "categoria": "Seguridad y salud en el trabajo",
             "nombre": "Trabajo seguro en alturas",
             "contenido": "",
@@ -969,7 +969,7 @@
     },
     "seminarios": {
         "seminarios1": {
-            "numeroCurso": "90001",
+            "numeroCurso": "sem1",
             "categoria": "Seminarios",
             "nombre": "IX Seminario Internacional de Auditoría Interna",
             "contenido": "",
@@ -988,7 +988,7 @@
     },
     "social": {
         "social1": {
-            "numeroCurso": "100001",
+            "numeroCurso": "soc1",
             "categoria": "Social",
             "nombre": "Aula Sello Joven 2017",
             "contenido": "",
@@ -1005,7 +1005,7 @@
             }
         },
         "social2": {
-            "numeroCurso": "100002",
+            "numeroCurso": "soc2",
             "categoria": "Social",
             "nombre": "Aula Sello Joven 2018",
             "contenido": "",
@@ -1022,7 +1022,7 @@
             }
         },
         "social3": {
-            "numeroCurso": "100003",
+            "numeroCurso": "soc3",
             "categoria": "Social",
             "nombre": "Com-Paz Participamos en la Transformación del Territorio",
             "contenido": "",
@@ -1039,7 +1039,7 @@
             }
         },
         "social4": {
-            "numeroCurso": "100004",
+            "numeroCurso": "soc4",
             "categoria": "Social",
             "nombre": "Foro: Retos para prevenir la violencia sexual y las maternidades no deseadas",
             "contenido": "",
@@ -1056,7 +1056,7 @@
             }
         },
         "social5": {
-            "numeroCurso": "100005",
+            "numeroCurso": "soc5",
             "categoria": "Social",
             "nombre": "Generación de Capacidades. Diplomado: Innovación, Sostenibilidad y Enfoque Social",
             "contenido": "",
@@ -1073,7 +1073,7 @@
             }
         },
         "social6": {
-            "numeroCurso": "100006",
+            "numeroCurso": "soc6",
             "categoria": "Social",
             "nombre": "Prevención del embarazo en la adolescencia - Curso Adolescentes",
             "contenido": "En este corto y divertido proceso formativo encontraras todas las herramientas para proyectar tu futuro, tomar decisiones planeadas para la vida y tener una salud sexual sana, responsable y libre de violencias.",
@@ -1090,7 +1090,7 @@
             }
         },
         "social7": {
-            "numeroCurso": "100007",
+            "numeroCurso": "soc7",
             "categoria": "Social",
             "nombre": "Prevención del embarazo en la adolescencia - Curso Formadores",
             "contenido": "En este corto y amigable curso encontraras un diseño curricular listo y todas las herramientas para formar niñas, niños, adolescentes y jóvenes en habilidades para la vida, toma de decisiones, salud sexual y reproductiva y llevar una vida libre de violencias.",
@@ -1107,7 +1107,7 @@
             }
         },
         "social8": {
-            "numeroCurso": "100008",
+            "numeroCurso": "soc8",
             "categoria": "Social",
             "nombre": "Servicio social obligatorio del distrito de Medellín en protección y bienestar animal",
             "contenido": "",
@@ -1126,7 +1126,7 @@
     },
     "tecnologiaInnovacion": {
         "tecnologiaInnovacion1": {
-            "numeroCurso": "110001",
+            "numeroCurso": "tecno1",
             "categoria": "Tecnología e innovación",
             "nombre": "ABC de las ciudades inteligentes e implementación de soluciones",
             "contenido": "Descubre el ascinante mundo de la transición de nuestras ciudades actuales hacia las ciudades del futuro. En este curso podrás explorar algunos casos de éxito de ciudades inteligentes, con los cuales podremos estar plenamente conscientes de nuestro potencial y limitaciones locales. Este curso pretende inspirarnos en los avances identificados en otras latitudes para pensarlos en nuestro contexto local. ¡Comencemos esta aventura!",
@@ -1143,12 +1143,12 @@
             }
         },
         "tecnologiaInnovacion2": {
-            "numeroCurso": "110002",
+            "numeroCurso": "tecno2",
             "categoria": "Tecnología e innovación",
             "nombre": "Archivística",
             "contenido": "El Archivo Central se complace en darle la bienvenida e invitarlo a participar de este curso básico de archivo, en el que se te brindará herramientas conceptuales y metodológicas para tus actividades administrativas y técnicas en la gestión de archivos. Inscríbete y aprende sobre la planificación, el manejo y la organización de la documentación producida y recibida por las entidades desde su origen hasta su disposición final, con el fin de facilitar su utilización, consulta y conservación de los documentos. Al finalizar este curso estarás en capacidad de identificar los conceptos básicos relacionados con la gestión documental, de reconocer los componentes que hacen parte del proceso de organización de archivos, de identificar la normatividad archivística, así como de familiarizarse con los instrumentos archivísticos.",
             "figure": {
-                "imagen": "https://img.freepik.com/foto-gratis/hombre-joven-primer-que-busca-vinilos-tienda_23-2148237245.jpg?w=900&t=st=1678292296~exp=1678292896~hmac=e7c76d2b86b7b248e11fd8c3c8fde3472a9b119f59b1bb385e8a46b398e2f539",
+                "imagen": "https://img.freepik.com/foto-gratis/hombre-joven-primer-que-busca-vinilos-tienda_23-2148237245.jpg?w=900&t=st=1679591464~exp=1679592064~hmac=5b3cd4c3bf0bf590682cd9ead72deb711b597169f6344d53aea69a9d3ad3c599",
                 "alt": "Imagen curso Archivística"
             },
             "requisitos": {
@@ -1160,7 +1160,7 @@
             } 
         },
         "tecnologiaInnovacion3": {
-            "numeroCurso": "110003",
+            "numeroCurso": "tecno3",
             "categoria": "Tecnología e innovación",
             "nombre": "Competencias digitales: énfasis en comunicación y colaboración NB",
             "contenido": "Las posibilidades que se presentan ante nosotros gracias a la revolución digital son realmente sorprendentes. Con este curso buscamos aprovechar al máximo las herramientas disponibles para comunicarnos y desenvolvernos en una nueva sociedad digital e interconectada, que necesita una ciudadanía inteligente. Te invitamos a entrar en esta cuarta revolución industrial consciente de las competencias digitales y comunicacionales que se requieren para vivir a plenitud este momento.",
@@ -1177,7 +1177,7 @@
             }
         },
         "tecnologiaInnovacion4": {
-            "numeroCurso": "110004",
+            "numeroCurso": "tecno4",
             "categoria": "Tecnología e innovación",
             "nombre": "Competencias digitales: énfasis en comunicación y colaboración NA",
             "contenido": "Vivimos en un mundo digital. Te invitamos a sacar todo el provecho posible para tus trabajos cotidianos, pero también para la gestión de contenidos y proyectos de tus diferentes actividades, entendiendo tu trabajo como un proceso que inicia desde la toma de decisiones y continúa hasta el desarrollo y producción final de las ideas. En este curso abordaremos herramientas gratuitas para gestionar tus contenidos y proyectos.",
@@ -1194,7 +1194,7 @@
             }
         },
         "tecnologiaInnovacion5": {
-            "numeroCurso": "110005",
+            "numeroCurso": "tecno5",
             "categoria": "Tecnología e innovación",
             "nombre": "Competencias Digitales: énfasis en cultura de la transformación digital e inteligencia colectiva NB",
             "contenido": "La transformación digital abarca mucho más que tecnologías y dispositivos tecnológicos. En este curso abordaremos cómo esta transformación implica también cambios en la forma de trabajar, de relacionarse y de crear de las personas. Esto llevado al ámbito empresarial se convierte en un alto potencial de innovación y de creatividad para potenciar los negocios hacia adelante, en concordancia con los retos del entorno.",
@@ -1205,13 +1205,13 @@
             "requisitos": {
                 "usuario": 1,
                 "botonInscribir": "si",
-                "link": "https://forms.office.com/r/A365sKcd2",
+                "link": "https://forms.office.com/r/A365sKcd2r",
                 "estado": "activo",
                 "ofertado": "si"
             }
         },
         "tecnologiaInnovacion6": {
-            "numeroCurso": "110006",
+            "numeroCurso": "tecno6",
             "categoria": "Tecnología e innovación",
             "nombre": "Competencias Digitales: énfasis en cultura de la transformación digital e inteligencia colectiva NA",
             "contenido": "En este curso podrás comprender las principales tendencias en Transformación Digital y cómo puedes hacerlas tangibles en acciones estratégicas como punto de partida para que luego puedas llevar procesos de cambio de manera eficiente y exitosa. Además, podrás adquirir los conocimientos y las herramientas para que pases de la teoría a la práctica y obtengas un primer plan de trabajo en el que puedas aprovechar la Inteligencia colectiva en la Transformación Digital en tu emprendimiento o empresa.",
@@ -1228,7 +1228,7 @@
             }
         },
         "tecnologiaInnovacion7": {
-            "numeroCurso": "110007",
+            "numeroCurso": "tecno7",
             "categoria": "Tecnología e innovación",
             "nombre": "Competencias digitales: énfasis en el poder de los datos NB",
             "contenido": "Los datos se conciben como un recurso que, con apoyo de internet y de las TIC, permiten la generación de valor público, social y económico para contribuir en el desarrollo de la sociedad. En este curso conocerás conceptos y estrategias para la búsqueda de información y contenido digital, aplicar filtros, evaluar críticamente su contenido, y considerar buenas prácticas para su uso ético, responsable y efectivo.",
@@ -1245,7 +1245,7 @@
             }
         },
         "tecnologiaInnovacion8": {
-            "numeroCurso": "110008",
+            "numeroCurso": "tecno8",
             "categoria": "Tecnología e innovación",
             "nombre": "Competencias digitales: énfasis en el poder de los datos NA",
             "contenido": "En esta experiencia conocerás conceptos y estrategias para llevar a cabo la gestión de datos, información y contenidos digitales, principalmente en los procesos de almacenamiento, organización y recuperación de datos en entornos digitales. Además, aprenderás a diseñar tableros de control de datos como una herramienta que te permitirá visualizar y analizar datos e información en un entorno estructurado.",
@@ -1262,7 +1262,7 @@
             }
         },
         "tecnologiaInnovacion9": {
-            "numeroCurso": "110009",
+            "numeroCurso": "tecno9",
             "categoria": "Tecnología e innovación",
             "nombre": "Fundamentos de las ciudades inteligentes",
             "contenido": "Te invitamos a descubrir el fascinante mundo de la transición de nuestras ciudades actuales, hacia las ciudades del futuro. En este curso, podrás explorar algunos casos de éxito de ciudades inteligentes, con los cuales, podremos estar plenamente conscientes de nuestro potencial y limitaciones locales. Este curso pretende inspirarnos en los avances identificados en otras latitudes para pensarlos en nuestro contexto local. ¡Comencemos esta aventura!",
@@ -1279,7 +1279,7 @@
             }
         },
         "tecnologiaInnovacion10": {
-            "numeroCurso": "110010",
+            "numeroCurso": "tecno10",
             "categoria": "Tecnología e innovación",
             "nombre": "Introducción a la plataforma Fiware para soluciones de ciudad inteligente",
             "contenido": "Bienvenido al curso Introducción a la plataforma Fiware para soluciones de ciudad inteligente, en este curso podrás desarrollar competencias en la conceptualización, diseño e implementación de soluciones de Internet de las cosas para resolver problemas en el marco del concepto de ciudades inteligentes, mediante la apropiación de conocimientos de arquitecturas de nube, virtualización de servicios, implementación de sensores y desarrollo de analítica descriptiva y visualización mediante tableros de control de procesos empleando el ecosistema de desarrollo FiWARE.",
@@ -1296,12 +1296,12 @@
             }
         },
         "tecnologiaInnovacion11": {
-            "numeroCurso": "110011",
+            "numeroCurso": "tecno11",
             "categoria": "Tecnología e innovación",
             "nombre": "Introducción a la Seguridad de la Información",
             "contenido": "El propósito de este curso es reconocer los conceptos básicos sobre Seguridad de la Información y los procesos de seguridad de la información, de acuerdo con los lineamientos del Modelo de Seguridad y Privacidad de la Información emitidos por el MinTIC.",
             "figure": {
-                "imagen": "https://img.freepik.com/foto-gratis/equipo-programadores-hablando-sobre-algoritmo-que-ejecuta-pantalla-portatil-apuntando-al-codigo-fuente-mientras-sentado-escritorio-desarrolladores-software-que-colaboran-proyecto-grupo-codificacion-datos_482257-33548.jpg?w=1060&t=st=1678292340~exp=1678292940~hmac=9e449281f08886819f580a6247568142f7d9dec3a2a63dd928ecafd2993487b2",
+                "imagen": "https://img.freepik.com/foto-gratis/mano-usando-computadora-portatil-pantalla-virtual-documento-aprobar-linea-concepto-gestion-erp-garantia-calidad-papel_616485-61.jpg?w=900&t=st=1679591820~exp=1679592420~hmac=d4c533a8ec54102bbd0eeea86db8d0ff428b6570b5b77694c76c32ca321715fa",
                 "alt": "Imagen curso Introducción a la seguridad de la información"
             },
             "requisitos": {
@@ -1313,7 +1313,7 @@
             }
         },
         "tecnologiaInnovacion12": {
-            "numeroCurso": "110012",
+            "numeroCurso": "tecno12",
             "categoria": "Tecnología e innovación",
             "nombre": "Introducción al Centro de servicios compartidos",
             "contenido": "Con este Curso sobre el Centro de Servicios Compartidos (CSC), se pretende que los funcionarios y contratistas del Distrito de Ciencia Tecnología e Innovación de Medellín, conozcan e interioricen los conceptos de Proyectos, Servicios y Categorías, requerimientos e incidentes, responsables de los servicios, entre otros. Además, aprenderán de como acceder a la plataforma, como se encuentra distribuido el CSC, como se registra un caso, por qué categoría debe realizar las solicitudes para los diferentes servicios y campos a diligenciar, como realizar seguimiento a los casos, a la solución de los mismos y agregar notas, que notificaciones nos da el sistema y finalmente el feedback contestando una breve encuesta de satisfacción del servicio que llega a los correos.",
@@ -1330,7 +1330,7 @@
             }
         },
         "tecnologiaInnovacion13": {
-            "numeroCurso": "110013",
+            "numeroCurso": "tecno13",
             "categoria": "Tecnología e innovación",
             "nombre": "Metaverso y tecnologías 4.0 NB",
             "contenido": "El concepto de Metaverso nace en la ficción por medio de la literatura y el cine; y se ha venido desarrollando en los videojuegos gracias a las nuevas posibilidades de interconectividad. En este curso podrás conocer qué es un metaverso y cómo funciona este mundo, y relacionar conceptos clave con ejemplos prácticos y cercanos a tu vida diaria.",
@@ -1347,7 +1347,7 @@
             }
         },
         "tecnologiaInnovacion14": {
-            "numeroCurso": "110014",
+            "numeroCurso": "tecno14",
             "categoria": "Tecnología e innovación",
             "nombre": "Metaverso y tecnologías 4.0 NA",
             "contenido": "En este curso aprenderás sobre los elementos que le dan vida a los mundos virtuales, como abre bocas para motivarte a seguir profundizando en algunos de estos elementos como el diseño de videojuegos, modelado 3D, ilustración digital, composición de audio y efectos para videojuegos, entre muchos otros.",
@@ -1364,12 +1364,12 @@
             }
         },
         "tecnologiaInnovacion15": {
-            "numeroCurso": "110015",
+            "numeroCurso": "tecno15",
             "categoria": "Tecnología e innovación",
             "nombre": "SAP",
             "contenido": "Acá conocerás todo el contexto del entorno SAP en el Municipio de Medellín para que cualquier persona de la organización, que deba, necesite o desee interactuar con SAP pueda conocer la filosofía del sistema y las herramientas básicas que le ayudarían durante su labor, sin importar con qué Módulo o Dependencia trabaje.",
             "figure": {
-                "imagen": "https://img.freepik.com/foto-gratis/codigo-aplicacion-programacion-ingenieros-afroamericanos-desarrollo-software-linea-servidor-nube-seguridad-firewall-codificacion-nueva-interfaz-usuario-programa-html-codigo-binario-desarrollo-web_482257-49867.jpg?w=900&t=st=1678292391~exp=1678292991~hmac=e1ad05c92f73cf51ef3598be5aafc283b19caac34706e41130152ca62b2d5fc6",
+                "imagen": "https://img.freepik.com/foto-gratis/manos-empresaria-usando-laptop-pantalla-blanco-maqueta-monitor-computadora-copyspace-listo-diseno-o-texto_74952-1413.jpg?w=996&t=st=1679591713~exp=1679592313~hmac=9a13d54e6ba51f3c627d3a0947e9a456de60b3717f7c46c73f1e9df57df41a4b",
                 "alt": "Imagen curso SAP"
             },
             "requisitos": {
@@ -1381,7 +1381,7 @@
             }
         },
         "tecnologiaInnovacion16": {
-            "numeroCurso": "110016",
+            "numeroCurso": "tecno16",
             "categoria": "Tecnología e innovación",
             "nombre": "Seguridad informática",
             "contenido": "",

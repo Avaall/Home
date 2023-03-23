@@ -24,7 +24,7 @@
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
-    z-index: 100;
+    z-index: 101;
     top: -150vh;
     transition: 1s;
     display: flex;
@@ -129,16 +129,67 @@
 @media screen and (max-height: 800px) {
     .home-header-texto-1,
     .home-header-texto-2 {
-        font-size: 21px;
+        font-size: 21px !important;
     }
     .img-ingreso {
-        height: 10vh;
+        width: 120px !important;
     }
     .home-informacion-button {
         height: 200px !important;
     }
     .home-icon-informacion {
         width: 150px !important;
+    }
+    .home-informacion-body {
+        font-size: 12px !important;
+        padding: 10px !important;
+        max-height: 190px !important;
+        overflow-y: scroll !important;
+    }
+    .home-valor-texto-titulo {
+        font-size: 18px !important;
+    }
+    .home-footer {
+        font-size: 16px !important;
+    }
+    .home-footer-img-sid {
+        width: 60px !important;
+    }
+    .home-footer-img {
+        width: 120px !important;
+    }
+}
+@media screen and (max-height: 500px) {
+    .home-header-texto-1,
+    .home-header-texto-2 {
+        font-size: 18px !important;
+    }
+    .img-ingreso {
+        width: 80px !important;
+    }
+    .home-informacion-button {
+        height: 100px !important;
+    }
+    .home-icon-informacion {
+        width: 100px !important;
+    }
+    .home-informacion-body {
+        font-size: 12px !important;
+        padding: 10px !important;
+        max-height: 150px !important;
+        overflow-y: scroll !important;
+    }
+    .home-valor-texto-titulo {
+        font-size: 16px !important;
+    }
+    .home-footer {
+        font-size: 14px !important;
+    }
+    .home-footer-img-sid {
+        width: 50px !important;
+    }
+    .home-footer-img {
+        width: 100px !important;
     }
 }
 
@@ -246,7 +297,7 @@
     font-size: 20px;
 }
 .img-ingreso {
-    width: 220px;
+    width: 180px;
     margin-right: 50px;
 }
 .img-info-caption {
@@ -589,6 +640,7 @@
     height: 60px;
     top: 0;
     position: sticky;
+    z-index: 100;
 }
 .index-nav-container {
     display: flex;
@@ -1093,5 +1145,8 @@
     margin-left: 20px;
 }
 
-
+#miga, #miga2 {
+    color: gray;
+    user-select: none;
+}
 

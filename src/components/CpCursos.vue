@@ -3,7 +3,7 @@
 
         <!-- Header -->
         <div>
-            <h1 class="my-5 d-flex flex-column index-cursos-titulo-general">
+            <h1 class="mb-5 mt-2 d-flex flex-column index-cursos-titulo-general">
                 <div class="d-flex justify-content-between align-items-center">
                     <p class="d-flex align-items-center justify-content-center"><strong>Cursos</strong>&nbsp;por categoría</p>
                     <!-- Buscador visual, caja de texto y botón -->
@@ -875,6 +875,7 @@ export default {
     },
     // Función que hace que las categorías cambien entre si visualizandose unas y otras que lo define el parametro valor
     cambioCategoria (valor) {
+      this.$emit('cambio', valor)
       // Elimina el fondo dependiendo del usuario que ingreso
       if (this.ID === 1) {
         document.getElementById('CpCiudadano').style.background = 'none'

@@ -58,9 +58,15 @@
 
       <!-- Visualización del contenido -->
         <div class="container container-b">
+            <div v-if="nuevoID == 1" class="mt-3">
+                <div id="miga">Ciudadanía > Cursos</div>
+            </div>
+            <div v-if="nuevoID == 2" class="mt-3">
+              <div id="miga2">Servidores > Cursos</div>
+          </div>
           <!-- Se crea una condición en la cual solo se visualiza según la variable que este activa como true -->
           <!-- Se le envían 2 props al componente hijo pasando el ID que se viene trayendo desde el padre y el indicadorTecnología que también viene desde el padre -->
-            <CpCursos v-if="mostrar_cursos" :indicadorTecnologia="sub_indicadorTecnologia" :ID="sub_id" />
+            <CpCursos v-if="mostrar_cursos" :indicadorTecnologia="sub_indicadorTecnologia" :ID="sub_id" @cambio="change" />
           <!-- Únicamente tiene la condición para visualizar pero no se necessita envíar ninguna variable -->
             <CpConoceMas v-if="mostrar_conoce" />
         </div>
@@ -122,15 +128,99 @@ export default {
     CpCursos
   },
   methods: {
+    change (x) {
+      if (this.sub_id === 1) {
+        if (x === 1) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Convivencia ciudadana'
+        }
+        if (x === 2) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Diversidad y género'
+        }
+        if (x === 3) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Gestión humana'
+        }
+        if (x === 4) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Hacienda y contratación'
+        }
+        if (x === 5) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Inclusión social'
+        }
+        if (x === 6) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Salud'
+        }
+        if (x === 7) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Seguridad vial'
+        }
+        if (x === 8) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Seguridad y salud en el trabajo'
+        }
+        if (x === 9) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Seminarios'
+        }
+        if (x === 10) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Social'
+        }
+        if (x === 11) {
+          document.getElementById('miga').textContent = 'Ciudadanía > Cursos > Tecnología e innovación'
+        }
+      }
+      if (this.sub_id === 2) {
+        if (x === 1) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Convivencia ciudadana'
+        }
+        if (x === 2) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Diversidad y género'
+        }
+        if (x === 3) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Gestión humana'
+        }
+        if (x === 4) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Hacienda y contratación'
+        }
+        if (x === 5) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Inclusión social'
+        }
+        if (x === 6) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Salud'
+        }
+        if (x === 7) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Seguridad vial'
+        }
+        if (x === 8) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Seguridad y salud en el trabajo'
+        }
+        if (x === 9) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Seminarios'
+        }
+        if (x === 10) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Social'
+        }
+        if (x === 11) {
+          document.getElementById('miga2').textContent = 'Servidores > Cursos > Tecnología e innovación'
+        }
+      }
+    },
     // Función para visualizar los cursos y ocultar el conoce más
     mostrarCursos () {
       this.mostrar_cursos = true
       this.mostrar_conoce = false
+      if (this.sub_id === 1) {
+        document.getElementById('miga').textContent = 'Ciudadanía > Cursos'
+      }
+      if (this.sub_id === 2) {
+        document.getElementById('miga2').textContent = 'Servidores > Cursos'
+      }
     },
     // Función para visualizar el conoce más y ocultar los cursos
     mostrarConoce () {
       this.mostrar_cursos = false
       this.mostrar_conoce = true
+      if (this.sub_id === 1) {
+        document.getElementById('miga').textContent = 'Ciudadanía > Conócenos más'
+      }
+      if (this.sub_id === 2) {
+        document.getElementById('miga2').textContent = 'Servidores > Conócenos más'
+      }
     }
   }
 }
