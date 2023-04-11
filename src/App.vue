@@ -1,6 +1,9 @@
 <template>
     <div id="app">
-
+      <div v-if="isLoading">
+        Hola
+      </div>
+      <div v-if="!isLoading">
       <!-- Home ingreso que desciende -->
         <div class="position-fixed usuario-ingresar" id="usuario-ingresar" v-on:click="CerrarMenu">
             <div class="d-block">
@@ -40,7 +43,7 @@
             <Index @cambiarValor="cambiarValor (3)" />
         </section>
       <!-- FIN Visualización de la pantalla completa -->
-
+      </div>
     </div>
 </template>
 
@@ -57,13 +60,19 @@ export default {
       // nuevoID se refiere al usuario, 1 = ciudadano, 2 = servidor
       nuevoID: 0,
       // indicadorTecnologia es una variable que solo se usa cuando le das click al banner para ir directo a la categoría tecnología
-      indicadorTecnologia: 0
+      indicadorTecnologia: 0,
+      isLoading: true
     }
   },
   name: 'App',
   components: {
     Index,
     IndexUsuario
+  },
+  mounted () {
+    window.addEventListener('load', () => {
+      this.isLoading = false
+    })
   },
   methods: {
     // Función que cierra el menú
