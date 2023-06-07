@@ -51,6 +51,7 @@
     cursor: pointer;
 }
 .usuario-icon {
+    height: 215px;
     margin-top: -20pxx;
     padding: 20px;
     transition: .5s;
@@ -68,9 +69,6 @@
     margin-top: 100px;
     justify-content: center;
     filter: Drop-shadow(0 0 0.45rem #000);
-}
-.div-tema {
-    display: none;
 }
 #select {
     width: 300px;
@@ -884,9 +882,6 @@
     }
 }
 @media screen and (max-width: 768px) {
-    .div-tema {
-        display: block;
-    }
     .index-cursos-visualizacion {
         width: 100% !important;
     }
@@ -1010,9 +1005,6 @@
     }
     .index-cursos-menu-sub {
         width: 100%;
-    }
-    .index-cursos-visualizacion {
-        display: none;
     }
     .index-cursos-fondo {
         background: none;
